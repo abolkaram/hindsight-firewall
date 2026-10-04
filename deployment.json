@@ -8,6 +8,7 @@
   "execution": "SUCCESS",
   "wallet": "0x412d61db014fCdDda12e33b826f63B8ef9AC2E87",
   "sourceSha256": "aab95cf209a66653bf05bba928218fe99aecd3b6ceb4bcef58eed8d975ac3510",
+  "sourceCommit": "27ac68b119102212a651c0f20455a36b3c275c9b",
   "sourceMatchVerified": true,
   "repository": "https://github.com/abolkaram/hindsight-firewall",
   "explorerAddress": "https://explorer-studio.genlayer.com/address/0x81f8f50Bc0Cf53F83979d67bE4692242d1E7EC25"
