@@ -1,0 +1,15 @@
+{
+  "project": "hindsight-firewall",
+  "network": "StudioNet",
+  "contractAddress": "0x81f8f50Bc0Cf53F83979d67bE4692242d1E7EC25",
+  "deploymentTransaction": "0x6555fcff982cb6c5b24f501b884ffc6410e8e1278e99a8b2a4ce23d7b8904a45",
+  "status": "FINALIZED",
+  "consensus": "MAJORITY_AGREE",
+  "execution": "SUCCESS",
+  "wallet": "0x412d61db014fCdDda12e33b826f63B8ef9AC2E87",
+  "sourceSha256": "aab95cf209a66653bf05bba928218fe99aecd3b6ceb4bcef58eed8d975ac3510",
+  "sourceMatchVerified": true,
+  "repository": "https://github.com/abolkaram/hindsight-firewall",
+  "explorerAddress": "https://explorer-studio.genlayer.com/address/0x81f8f50Bc0Cf53F83979d67bE4692242d1E7EC25"
+}
+

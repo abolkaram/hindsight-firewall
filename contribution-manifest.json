@@ -1,0 +1,9 @@
+{
+  "title": "Hindsight Firewall",
+  "category": "Intelligent Contracts",
+  "primitive": "Two-axis decision audit with one evidence-bound challenge",
+  "network": "StudioNet",
+  "contract": "contracts/contract.py",
+  "frontend": false
+}
+

@@ -1,0 +1,13 @@
+{
+  "caseId": "HF-LIVE-20261004B",
+  "sealTransaction": "0x7516b56d1de575cf7d2f617366e7da010ff89432bf83605387ea002f001968b8",
+  "auditTransaction": "0xb56c3e29fdfc33ac74b198011a452296fffaeb08ddec15d1c03e5ac6fde51315",
+  "sealExecution": "SUCCESS",
+  "auditExecution": "SUCCESS",
+  "state": "AUDITED",
+  "verdict": "SOUND_BAD_OUTCOME",
+  "processSound": true,
+  "outcomeFavorable": false,
+  "fixtureDisclosure": "Both wallets and every fact in this public record are operator-controlled fictional test fixtures."
+}
+
